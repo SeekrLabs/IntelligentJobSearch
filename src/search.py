@@ -1,24 +1,28 @@
 import json
+import boto3
+import botocore.vendored.requests as requests
+import os
+from .elasticsearch import ESQuery
+from .messenger import MessengerGalleryResponse
 
+region = os.environ['AWS_REGION']
+service = 'es'
+credentials = boto3.Session().get_credentials()
+
+host = os.environ['DOMAIN_ENDPOINT']
+index = os.environ['DOMAIN_INDEX']
+
+url = host + '/' + index + '/' + '_search'
 
 def search(event, context):
-    body = {
-        "message": "Go Serverless v1.0! Your function executed successfully!",
-        "input": event
-    }
+    q = ESQuery(event, url)
+    q.build_query()
+    resp = q.send_to_es()
+    print(json.loads(resp))
 
-    response = {
-        "statusCode": 200,
-        "body": json.dumps(body)
-    }
-
-    return response
-
-    # Use this code if you don't use the http event with the LAMBDA-PROXY
-    # integration
-    """
+    out = MessengerGalleryResponse(resp).process()
+    print(out)
     return {
-        "message": "Go Serverless v1.0! Your function executed successfully!",
-        "event": event
+        'statusCode': 200,
+        'body': json.dumps(out)
     }
-    """

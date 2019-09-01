@@ -1,0 +1,114 @@
+{
+  "took": 46,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 9,
+      "relation": "eq"
+    },
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "job-ads",
+        "_type": "indeed",
+        "_id": "barista-glory_hole_doughnuts-1567097930",
+        "_score": null,
+        "_source": {
+          "scrape_start_time": 1567097930,
+          "title": "Barista",
+          "url": "/company/Glory-Hole-Doughnuts/jobs/Barista-ce6ac18a0fd69077?fccid=6a621968717d48d4&vjs=3",
+          "source": "INDEED",
+          "company": "Glory Hole Doughnuts",
+          "location": "Toronto, ON",
+          "post_date": "2019-08-29 16:58:50",
+          "description": "<div class=\"jobsearch-JobComponent-description icl-u-xs-mt--md\"><div class=\"jobsearch-jobDescriptionText\" id=\"jobDescriptionText\"><p>The ideal candidate is passionate, driven by customer satisfaction and takes pride in their work. Experience in the food industry is preferred but not a requirement. Barista experience (and willingness to learn) is a bonus for FOH candidate, training to our standards will also be provided.</p><p><b>Responsibilities include: </b></p><p>- Customer interaction - must have great communication skills!</p><p>- POS &amp; cash handling</p><p>- Order taking &amp; filling orders</p><p>- Maintain shop cleanliness at all times</p><p>- Knowledge and experience in coffee</p><p>- Adhere to health &amp; safety standards</p><p><b>Candidate must: </b></p><p>- Be positive and have a great sense of humour &amp; attitude</p><p>- 1 year minimum in hospitality industry with cash-handling experience &amp; customer interaction</p><p>- Have excellent communication and problem solving skills</p><p>- Is able to work in a fast paced, fun, and team-oriented environment</p><p>- Available to work on weekends</p><p>Job Types: Full-time, Part-time</p><p>Salary: $14.00 to $16.00 /hour</p><p>Language:</p><ul><li>English (Preferred)</li></ul></div></div>"
+        },
+        "sort": [
+          1567097930
+        ]
+      },
+      {
+        "_index": "job-ads",
+        "_type": "indeed",
+        "_id": "barista-avenue_cafe-1567097930",
+        "_score": null,
+        "_source": {
+          "scrape_start_time": 1567097930,
+          "title": "Barista",
+          "url": "/company/Avenue-Cafe/jobs/Barista-4cafb9b0c1221b87?fccid=3cb5d6c310ee532d&vjs=3",
+          "source": "INDEED",
+          "company": "Avenue Cafe",
+          "location": "Toronto, ON",
+          "post_date": "2019-08-29 16:58:50",
+          "description": "<div class=\"jobsearch-JobComponent-description icl-u-xs-mt--md\"><div class=\"jobsearch-jobDescriptionText\" id=\"jobDescriptionText\"><p>We need part time barista to CLOSE the Cafe in Downtown for a permanent position.</p><p>Will do the coffee, need to keep the station clean, restock the freezers, make Lattes, Cappuccinos, etc. Will be charge for the drinks and pastries too.</p><p>Experience needed.</p><p>Monday to Friday job.</p><p>Job Type: Part-time</p><p>Salary: $14.50 /hour</p><p>Language:</p><ul><li>English (Preferred)</li></ul></div></div>"
+        },
+        "sort": [
+          1567097930
+        ]
+      },
+      {
+        "_index": "job-ads",
+        "_type": "indeed",
+        "_id": "barista_(827_st._clair_ave_w)-what_a_bagel-1567097930",
+        "_score": null,
+        "_source": {
+          "scrape_start_time": 1567097930,
+          "title": "Barista (827 St. Clair Ave W)",
+          "url": "/company/WHAT-A-BAGEL/jobs/Barista-34de577b7a2b15b3?fccid=535088c7ce56d670&vjs=3",
+          "source": "INDEED",
+          "company": "WHAT A BAGEL",
+          "location": "Toronto, ON",
+          "post_date": "2019-08-29 16:58:50",
+          "description": "<div class=\"jobsearch-JobComponent-description icl-u-xs-mt--md\"><div class=\"jobsearch-jobDescriptionText\" id=\"jobDescriptionText\"><p>We are currently looking for an experienced barista for the What A Bagel Eatery location on St. Clair Ave. West. We are located at 827 St. Clair Avenue West (St. Clair/Oakwood). The ideal candidate must be friendly, outgoing, enthusiastic, hard working and practice safe food handling.</p><p>Operating hours are 7am-6pm M-F and 8am-5pm Sat-Sun</p><p>Currently looking to hire for Monday to Friday Shifts and weekends</p><p>Job starts immediately so please send us your resume</p><p>Job Types: Full-time, Part-time</p><p>Language:</p><ul><li>English (Preferred)</li><li>French (Preferred)</li></ul></div></div>"
+        },
+        "sort": [
+          1567097930
+        ]
+      },
+      {
+        "_index": "job-ads",
+        "_type": "indeed",
+        "_id": "barista_(827_st._clair_ave_w)-what_a_bagel-1567083529",
+        "_score": null,
+        "_source": {
+          "scrape_start_time": 1567083529,
+          "title": "Barista (827 St. Clair Ave W)",
+          "url": "/company/WHAT-A-BAGEL/jobs/Barista-34de577b7a2b15b3?fccid=535088c7ce56d670&vjs=3",
+          "source": "INDEED",
+          "company": "WHAT A BAGEL",
+          "location": "Toronto, ON",
+          "post_date": "2019-08-29 12:58:49",
+          "description": "<div class=\"jobsearch-JobComponent-description icl-u-xs-mt--md\"><div class=\"jobsearch-jobDescriptionText\" id=\"jobDescriptionText\"><p>We are currently looking for an experienced barista for the What A Bagel Eatery location on St. Clair Ave. West. We are located at 827 St. Clair Avenue West (St. Clair/Oakwood). The ideal candidate must be friendly, outgoing, enthusiastic, hard working and practice safe food handling.</p><p>Operating hours are 7am-6pm M-F and 8am-5pm Sat-Sun</p><p>Currently looking to hire for Monday to Friday Shifts and weekends</p><p>Job starts immediately so please send us your resume</p><p>Job Types: Full-time, Part-time</p><p>Language:</p><ul><li>English (Preferred)</li><li>French (Preferred)</li></ul></div></div>"
+        },
+        "sort": [
+          1567083529
+        ]
+      },
+      {
+        "_index": "job-ads",
+        "_type": "indeed",
+        "_id": "full_time_starbucks_barista-compass_group_canada-1567083529",
+        "_score": null,
+        "_source": {
+          "scrape_start_time": 1567083529,
+          "title": "Full Time Starbucks Barista",
+          "url": "/rc/clk?jk=b022e6d42a9bae4a&fccid=c55f4ad42cee2cd3&vjs=3",
+          "source": "INDEED",
+          "company": "Compass Group Canada",
+          "location": "Mississauga, ON",
+          "post_date": "2019-08-29 12:58:49",
+          "description": "<div class=\"jobsearch-JobComponent-description icl-u-xs-mt--md\"><div class=\"jobsearch-jobDescriptionText\" id=\"jobDescriptionText\"><div>Job Description<br/>\n<br/>\n<p><b>Job Type: Full time\n</b></p><p><b>Location: University of Toronto (Mississauga Campus) UTM</b></p><p><b>\nWe Offer full denial and Health Benefit after 6 months of continuous employment</b></p><p>\nAs a Starbucks Barista, you will create the Starbucks Experience for our customers by providing legendary customer service with prompt service, quality beverages and products, and maintaining a clean and comfortable store environment. You will be responsible for modeling and acting in accordance with Starbucks guiding principles and best of all, you’ll be part of a company that is consistently rated as a great place to work and the people here love what they do.</p><p>\nSummary of Key Responsibilities:</p><p>\nResponsibilities and essential job functions include but are not limited to the following:</p><ul><li>Acts with integrity, honesty and knowledge that promote the culture, values and mission of Starbucks.</li><li>Maintains a calm demeanor during periods of high volume or unusual events to keep store operating to standard and to set a positive example for the shift team.</li><li>Anticipates customer and store needs by constantly evaluating environment and customers for cues.</li><li>Communicates information to manager so that the team can respond as necessary to create the Third Place environment during each shift.</li><li>Assists with new partner training by positively reinforcing successful performance and giving respectful and encouraging coaching as needed.</li><li>Contributes to positive team environment by recognizing alarms or changes in partner morale and performance and communicating them to the store manager.</li><li>Delivers legendary customer service to all customers by acting with a customer comes first attitude and connecting with the customer. Discovers and responds to customer needs.</li><li>Follows Starbucks operational policies and procedures, including those for cash handling and safety and security, to ensure the safety of all partners during each shift. Maintains a clean and organized workspace so that partners can locate resources and product as needed.</li><li>Maintains regular and consistent attendance and punctuality.</li><li>Provides quality beverages, whole bean, and food products consistently for all customers by adhering to all recipe and presentation standards. Follows health, safety and sanitation guidelines for all products.</li><li>Recognizes and reinforces individual and team accomplishments by using existing organizational methods.</li><li>Carefully enters all sales into the cash register to ensure that all purchases are accurately recorded.</li><li>Makes change, processes credit card transactions; checks for counterfeit bills as per Company policy where equipment is provided, and issues receipts to customers.</li><li>Follow standard procedures for issuing cash refunds.</li><li>Performs sales transactions in a reasonable and timely fashion.</li><li>May be required to assist any brand or Chartwells unit as required by the unit manager</li></ul></div>\n<br/>\n<div>Qualifications<br/>\n<br/>\n<p>Summary of Experience</p><ul><li>No previous experience required</li></ul><p>\nRequired Knowledge, Skills &amp; Abilities</p><ul><li>Ability to learn quickly</li><li>Ability to understand and carry out oral and written instructions and request clarification when needed</li><li>Strong interpersonal skills</li><li>Ability to work as part of a team</li><li>Ability to build relationships Physical Requirements</li><li>Constant standing/walking</li><li>Occasional pushing, pulling, lifting or carrying up to 40 lbs</li><li>Occasional ascending or descending ladders, stairs, ramps</li><li>Constant computer/POS Register and bar equipment usage</li><li>Frequent, continual, intermittent flexing or rotation of the wrist(s) and spine</li><li>Constant reaching, turning, and performing precision work around bar area</li><li>Constant receiving detailed information through oral communication</li><li>Constant talking, expressing or exchanging ideas by means of the spoken word</li><li>Occasional Distinguishing, with a degree of accuracy, differences or similarities in intensity or quality of flavors and/or odors</li><li>Constant clarity of vision at near and/or far distances</li></ul><br/>\nAdditional Information<br/>\n<br/>\n<p><b>Job Type: Full time\n</b></p><p><b>Location: University of Toronto (Mississauga Campus) UTM\n</b></p><p><b>We Offer full denial and Health Benefit after 6 months of continuous employment\n</b></p><p>Thank you for your interest in a career with Compass Group!</p><p></p><br/>\n<p>\nOnly those selected for an interview will be contacted.</p><p>\nWe will consider your resume for additional opportunities.</p><p></p><br/>\n<p><i>\nCompass Group Canada is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are treated fairly and equitably which includes providing accommodation. </i><i>Health, Safety, Environment and Quality (HSEQ) is also an operational priority. Safeguarding the health and safety of our people and customers is</i><i> </i><i>essential to the success of our business.</i></p><p></p><br/>\n<p><i>\nLearn more about us at www.compass-canada.com</i><i>!</i></p></div></div></div>"
+        },
+        "sort": [
+          1567083529
+        ]
+      }
+    ]
+  }
+}
